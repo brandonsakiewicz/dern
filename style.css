@@ -73,6 +73,7 @@ li a {
 #education {
     background-color: rgba(107, 107, 107, .5);
     margin-bottom: 1em;
+    position: relative;
 }
 
 #education h2 {
@@ -82,7 +83,7 @@ li a {
 
 #education img {
     float: left;
-    height: 30%;
+    height: 25%;
 }
 
 #education ul {
