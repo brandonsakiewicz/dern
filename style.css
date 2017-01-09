@@ -82,15 +82,16 @@ li a {
 }
 
 #education img {
+    display: inline-block;
     float: left;
-    height: 25%;
+    height: 20%;
+    padding: .2em;
 }
 
 #education ul {
     border: 5px solid black;
     border-radius: 15px;
     width: 25%;
-    margin: auto;
     margin: 2em 5em 5em 50em;
 }
 
@@ -125,7 +126,7 @@ li a {
     background: white;
     margin: .5em;
     text-align: left;
-    padding: .5em;
+    padding: .2em;
 }
 
 #csom {
@@ -135,7 +136,7 @@ li a {
     margin: .5em;
     background: white;
     text-align: left;
-    padding: .5em;
+    padding: .2em;
 }
 
 #cac {
@@ -147,7 +148,7 @@ li a {
     margin: .5em;
     background: white;
     text-align: left;
-    padding: .5em;
+    padding: .2em;
 }
 
 #contact {
